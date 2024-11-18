@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="poner bomba:jar">
+    <output-path>$PROJECT_DIR$/../../practica_1/artifacts/poner_bomba_jar</output-path>
+    <root id="root">
+      <element id="archive" name="poner bomba.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/../../practica_1/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="poner bomba" />
+      </element>
+    </root>
+  </artifact>
+</component>
